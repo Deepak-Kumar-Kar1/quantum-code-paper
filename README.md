@@ -1,1 +1,17 @@
 # Codes used in the paper
+
+This repository contains the source code used in the paper "[KERNEL METHODS IN QUANTUM MACHINE
+LEARNING]".
+
+## Contents
+
+- `Algorithms.ipynb` – Main code for running various algorithms.
+- `DensityMatrix.ipynb` and `Entanglement.ipynb`– Scripts for separating the density matrices.
+- `ML.ipynb`, `QML.ipynb`, and `SupportVectors.ipynb`  Contain codes for various machine learning and quantum machine learning models.
+
+## How to Use
+
+You can view and download individual files or clone the repository using:
+
+```bash
+git clone https://github.com/your-username/quantum-code-paper.git
